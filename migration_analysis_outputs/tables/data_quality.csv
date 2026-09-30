@@ -1,0 +1,11 @@
+,dtype,missing,missing_pct,unique
+year_month,object,0,0.0,303
+month_of_release,object,0,0.0,67
+passenger_type,object,0,0.0,1
+direction,object,0,0.0,1
+citizenship,object,0,0.0,3
+visa,object,0,0.0,7
+country_of_residence,object,0,0.0,249
+estimate,int64,0,0.0,3915
+standard_error,int64,0,0.0,125
+status,object,0,0.0,2

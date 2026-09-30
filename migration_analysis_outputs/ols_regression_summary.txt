@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                nigeria   R-squared:                       0.418
+Model:                            OLS   Adj. R-squared:                  0.393
+Method:                 Least Squares   F-statistic:                     16.51
+Date:                Wed, 30 Sep 2026   Prob (F-statistic):           0.000481
+Time:                        09:53:22   Log-Likelihood:                -131.25
+No. Observations:                  25   AIC:                             266.5
+Df Residuals:                      23   BIC:                             268.9
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          9.5969     18.666      0.514      0.612     -29.016      48.210
+time           5.4169      1.333      4.063      0.000       2.659       8.175
+==============================================================================
+Omnibus:                        2.427   Durbin-Watson:                   0.780
+Prob(Omnibus):                  0.297   Jarque-Bera (JB):                1.129
+Skew:                           0.454   Prob(JB):                        0.569
+Kurtosis:                       3.509   Cond. No.                         27.3
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

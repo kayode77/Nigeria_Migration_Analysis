@@ -1,0 +1,237 @@
+country_of_residence,estimate,rank
+TOTAL,131960,1
+Asia,60318,2
+Oceania and Antarctica,24731,3
+Australia,16129,4
+Not Stated,15049,5
+India,14484,6
+Europe,14475,7
+"China, People's Republic of",14129,8
+The Americas,10043,9
+Philippines,8917,10
+Africa and the Middle East,7348,11
+United Kingdom,6408,12
+United States of America,5204,13
+Sri Lanka,4670,14
+Samoa,2930,15
+Fiji,2578,16
+Nepal,2205,17
+South Africa,2112,18
+Canada,2057,19
+Japan,2055,20
+"Korea, Republic of",1987,21
+France,1774,22
+Germany,1732,23
+Singapore,1547,24
+United Arab Emirates,1537,25
+Viet Nam,1499,26
+Malaysia,1337,27
+Bangladesh,1273,28
+Thailand,1172,29
+Indonesia,1142,30
+Tonga,1048,31
+Taiwan,938,32
+Pakistan,913,33
+Hong Kong (Special Administrative Region),738,34
+Argentina,665,35
+Spain,622,36
+Brazil,584,37
+Chile,581,38
+Cook Islands,520,39
+Netherlands,496,40
+Italy,488,41
+Ireland,471,42
+Qatar,441,43
+Cambodia,426,44
+Saudi Arabia,401,45
+Zimbabwe,385,46
+Russia,344,47
+Iran,334,48
+"Czech Republic (to Sep 2018), Czechia (from Oct 2018)",298,49
+Colombia,267,50
+New Zealand,256,51
+Switzerland,249,52
+Mexico,244,53
+Sweden,243,54
+Kiribati,237,55
+Israel,229,56
+Kuwait,211,57
+Nigeria,207,58
+Vanuatu,194,59
+Belgium,174,60
+Afghanistan,167,61
+Kenya,159,62
+Turkey,157,63
+Oman,153,64
+Papua New Guinea,152,65
+Tuvalu,146,66
+Uruguay,143,67
+Myanmar,141,68
+French Polynesia,136,69
+Denmark,132,70
+Laos,127,71
+Norway,113,72
+Austria,110,73
+Bhutan,108,74
+Solomon Islands,104,75
+Poland,102,76
+Bahrain,102,77
+New Caledonia,101,78
+Ethiopia,99,79
+Hungary,91,80
+Peru,87,81
+Jordan,83,82
+Egypt,82,83
+Finland,79,84
+Portugal,78,85
+Maldives,75,86
+Malawi,74,87
+Niue,71,88
+Tokelau,70,89
+Ecuador,63,90
+Ghana,61,91
+Lebanon,56,92
+Mongolia,54,93
+Iraq,52,94
+Kazakhstan,46,95
+Lithuania,45,96
+Serbia,43,97
+Romania,42,98
+Brunei Darussalam,42,99
+Somalia,41,100
+Slovakia,40,101
+Macau (Special Administrative Region),35,102
+Latvia,35,103
+Botswana,34,104
+Zambia,33,105
+Uganda,33,106
+"Samoa, American",32,107
+Mauritius,30,108
+Greece,30,109
+Ukraine,29,110
+Malta,29,111
+Croatia,25,112
+Georgia,25,113
+Estonia,23,114
+Timor-Leste,23,115
+Cyprus,22,116
+Gaza Strip/Palestine/West Bank,21,117
+Slovenia,21,118
+Namibia,19,119
+Iceland,17,120
+Yemen,17,121
+Cayman Islands,16,122
+Armenia,16,123
+Costa Rica,16,124
+Morocco,15,125
+Syria,15,126
+Algeria,15,127
+Uzbekistan,15,128
+Luxembourg,13,129
+Moldova,13,130
+Bulgaria,13,131
+Congo,12,132
+Burundi,11,133
+"Swaziland (to Sep 2018), Eswatini (from Oct 2018)",11,134
+Paraguay,10,135
+Rwanda,10,136
+Bahamas,9,137
+Cameroon,9,138
+Marshall Islands,9,139
+Djibouti,8,140
+Jamaica,8,141
+Tanzania,8,142
+Bolivia,8,143
+Mali,8,144
+Nicaragua,7,145
+Guyana,6,146
+Azerbaijan,6,147
+Eritrea,6,148
+"Micronesia, Federated States of",6,149
+Sudan,6,150
+Panama,5,151
+Guam,5,152
+Reunion,5,153
+"Congo, the Democratic Republic of the",5,154
+Belarus,5,155
+South Sudan,5,156
+Kyrgyzstan,5,157
+Venezuela,5,158
+Angola,5,159
+Palau,4,160
+Guatemala,4,161
+Barbados,4,162
+Andorra,4,163
+Martinique,4,164
+Dominican Republic,4,165
+Tunisia,4,166
+Albania,4,167
+Seychelles,4,168
+North Macedonia,4,169
+Suriname,3,170
+Falkland Islands,3,171
+Aruba,3,172
+St Maarten (Dutch Part),3,173
+Bermuda,3,174
+Gambia,3,175
+Chad,3,176
+Trinidad and Tobago,3,177
+Turks and Caicos Islands,3,178
+Cuba,3,179
+Montenegro,3,180
+Liberia,3,181
+Lesotho,3,182
+Honduras,3,183
+Mozambique,2,184
+Turkmenistan,2,185
+Monaco,2,186
+Norfolk Island,2,187
+Madagascar,2,188
+Libya,2,189
+Gabon,2,190
+Nauru,2,191
+Kosovo,2,192
+Dominica,2,193
+Antigua and Barbuda,2,194
+"Korea, Democratic People's Republic of",2,195
+Puerto Rico,2,196
+Benin,2,197
+Wallis and Futuna,1,198
+Tajikistan,1,199
+"Virgin Islands, United States",1,200
+"Virgin Islands, British",1,201
+Togo,1,202
+Antarctica,1,203
+El Salvador,1,204
+St Lucia,1,205
+Pitcairn,1,206
+Curacao,1,207
+Guinea,1,208
+Guadeloupe,1,209
+Northern Mariana Islands,1,210
+Cocos (Keeling) Islands,1,211
+Grenada,1,212
+Sierra Leone,1,213
+Belize,1,214
+Greenland,0,215
+Gibraltar,0,216
+French Guiana,0,217
+Vatican City State,0,218
+Haiti,0,219
+Faeroe Islands,0,220
+Cote d'Ivoire,0,221
+Comoros,0,222
+Christmas Island,0,223
+Anguilla,0,224
+St Kitts and Nevis,0,225
+Mayotte,0,226
+Montserrat,0,227
+Cabo Verde,0,228
+Equatorial Guinea,0,229
+Niger,0,230
+Bosnia and Herzegovina,0,231
+San Marino,0,232
+Senegal,0,233
+South Georgia and the South Sandwich Islands,0,234
+St Helena,0,235
+Liechtenstein,0,236

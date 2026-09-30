@@ -1,0 +1,211 @@
+
+==============================================================
+NIGERIA–NEW ZEALAND MIGRATION STATISTICAL REPORT
+==============================================================
+
+Study period:
+January 2001 – March 2026
+
+Complete annual inferential period:
+2001 – 2025
+
+2026 note:
+March 2026 is a partial year and is not treated as a
+complete annual observation.
+
+--------------------------------------------------------------
+CUMULATIVE RESULTS
+--------------------------------------------------------------
+
+Nigeria:
+1,892
+
+West Africa:
+3,477
+
+Africa:
+139,176
+
+World:
+9,003,544
+
+Nigeria share of West Africa:
+54.41%
+
+Nigeria share of Africa:
+1.36%
+
+Nigeria share of World:
+0.0210%
+
+
+--------------------------------------------------------------
+RANKINGS
+--------------------------------------------------------------
+
+Nigeria West Africa rank:
+#1
+
+Nigeria Africa rank:
+#6
+
+Nigeria global rank:
+#86
+
+
+--------------------------------------------------------------
+RECENT NIGERIA RESULTS
+--------------------------------------------------------------
+
+2022:
+58
+
+2023:
+236
+
+2024:
+238
+
+2025:
+207
+
+2022–2023 percentage change:
+306.90%
+
+
+--------------------------------------------------------------
+OLS REGRESSION
+--------------------------------------------------------------
+
+Slope:
+5.4169
+
+R-squared:
+0.4178
+
+Slope p-value:
+0.00048114
+
+
+--------------------------------------------------------------
+SEGMENTED REGRESSION
+--------------------------------------------------------------
+
+Post-2022 level coefficient:
+202.1818
+
+Post-2022 level p-value:
+1.02078e-05
+
+Post-2022 slope coefficient:
+-14.5000
+
+Post-2022 slope p-value:
+0.383449
+
+R-squared:
+0.8719
+
+
+--------------------------------------------------------------
+CORRELATION
+--------------------------------------------------------------
+
+Nigeria vs West Africa:
+r = 0.9507
+p = 3.47519e-13
+
+Nigeria vs Africa:
+r = 0.2944
+p = 0.153134
+
+Nigeria vs World:
+r = 0.7225
+p = 4.52405e-05
+
+
+--------------------------------------------------------------
+HYPOTHESIS TESTS
+--------------------------------------------------------------
+
+Welch t-test:
+Statistic = -14.9647
+p-value = 0.00034834
+
+Mann-Whitney U:
+Statistic = 0.0000
+p-value = 0.00722182
+
+Chi-square visa composition:
+Statistic = 124.3108
+Degrees of freedom = 5
+p-value = 3.83061e-25
+
+
+--------------------------------------------------------------
+HOLT-WINTERS BENCHMARK
+--------------------------------------------------------------
+
+2026:
+213.5
+
+2027:
+220.0
+
+2028:
+226.4
+
+2029:
+232.8
+
+2030:
+239.1
+
+
+--------------------------------------------------------------
+INTERPRETATION
+--------------------------------------------------------------
+
+Nigeria is the largest West African source represented in
+this dataset.
+
+Nigeria's cumulative share of West African arrivals is
+approximately 54.4%.
+
+Nigeria's historical African ranking differs from its
+recent ranking. The country has been among the leading
+African sources in the most recent complete years.
+
+The large increase between 2022 and 2023 should be treated
+as an important structural change requiring further
+investigation.
+
+The regression results demonstrate statistical association
+with time and the post-2022 intervention period. They do
+not establish the cause of the change.
+
+Correlation measures association rather than causation.
+
+The Holt-Winters result is a statistical benchmark rather
+than an official New Zealand government forecast.
+
+
+--------------------------------------------------------------
+LIMITATIONS
+--------------------------------------------------------------
+
+1. Country of last permanent residence is not necessarily
+   the same as citizenship.
+
+2. Migration arrivals are a flow, not a population stock.
+
+3. Net migration requires arrivals and departures.
+
+4. March 2026 is incomplete.
+
+5. Migration estimates may be revised.
+
+6. Statistical association does not establish causality.
+
+7. Regional classification depends on the country categories
+   represented in the supplied dataset.

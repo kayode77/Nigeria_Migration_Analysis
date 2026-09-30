@@ -1,0 +1,4 @@
+test,statistic,p_value,alpha,decision
+Welch independent-samples t-test,-14.964670227997875,0.00034834036979373035,0.05,Reject H0
+Mann-Whitney U test,0.0,0.007221823054407313,0.05,Reject H0
+Chi-square visa composition,124.31082146984332,3.8306137490616804e-25,0.05,Reject H0
